@@ -1,0 +1,25 @@
+.italique{
+  font-style: italic;
+}
+
+body{
+
+  margin : 80px auto;
+  text-align: center;
+  line-height: 1.4;
+  color : #A49F9F;
+  width : 500px;
+
+}
+
+p, ul{
+
+text-align : justify;
+font-size: 16px
+}
+
+h2{
+
+  font-size: 28px;
+  text_decoration : bold
+}
